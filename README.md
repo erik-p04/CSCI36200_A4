@@ -1,0 +1,1 @@
+The user will run the makefile. They are then prompted to enter a value for k between 1 and 15. The program will then return the k-th smallest integer in the BST. The program will also output all integers in the BST in pre-order traversal. Lastly the program will output a graphic of what the balanced BST looks like.
